@@ -1,0 +1,17 @@
+{
+  "name": "eslint-settings",
+  "version": "1.0.0",
+  "description": "eslint settings",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrainovKA/eslint-settings.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-plugin-react": "^7.22.0"
+  }
+}
